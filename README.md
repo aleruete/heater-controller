@@ -340,11 +340,15 @@ Consumption control is **not implemented yet**. The existing MQTT meter is await
 
 The planned rule is to request reduction when household power stays above **X kW continuously for T**, with a separate release threshold to avoid chatter. Home Assistant will need a fresh power entity in **W or kW**, not just an energy total in kWh. The eventual request will be combined with temperature and schedule using OR, while retaining direct remote-temperature control if Home Assistant commands expire and the sensor packets remain fresh.
 
-## Credentials and publication
+## Disclaimer
 
-An earlier revision included controller API and fallback-hotspot credentials in source and compiled firmware. Treat those credentials as exposed: generate a new controller API key and hotspot password in your private `secrets.yaml`, rebuild and install the controller firmware, then update the Home Assistant integration with the new API key. Keep the device name unchanged to preserve its identity. Rotate any other credential you have shared in a public build.
+This is an experimental DIY project provided “as is,” without warranties of any kind. It has not been certified or fully tested with the NIBE Fighter 1230. It is not affiliated with or endorsed by NIBE, Raspberry Pi, or Waveshare.
 
-Deleting current files does not remove old Git history. Publish the prepared clean history only after reviewing the replacement; old clones and cached copies can still retain exposed credentials. Credential rotation remains necessary.
+You are responsible for verifying compatibility, wiring, configuration, and safe operation. Incorrect installation or unexpected behaviour may damage equipment, interrupt heating, or cause injury. Have a qualified professional perform work inside the heat pump, and complete the documented bench tests before connecting it.
+
+This controller adjusts heating through an external input; it does not replace the heat pump’s built-in controls or safety protections, and it does not guarantee energy savings.
+
+To the extent permitted by applicable law, the authors accept no liability for damage or loss arising from use of this project.
 
 ## License
 
