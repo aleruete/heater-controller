@@ -1,0 +1,86 @@
+NIBE Control Pico — Noncommercial and No-Patenting License
+Version 1.0 (custom draft)
+
+Copyright (c) 2026 Alejandro Reute
+
+This is a custom license, not MIT, PolyForm, or an OSI-approved open-source
+license. It has not been reviewed by legal counsel.
+
+1. Scope and definitions
+
+"Project" means the original software, configurations, documentation, and
+original design material in this repository that the copyright holder has
+rights to license. Third-party materials and dependencies are excluded and
+remain governed by their respective licenses.
+
+"Derivative" means a modification, adaptation, translation, or other work
+based on the Project. "Covered Material" means the Project and Derivatives,
+only to the extent of rights held by the copyright holder.
+
+2. Conditional noncommercial permission
+
+Subject to all conditions below, permission is granted, free of charge, to
+use, copy, study, modify, and distribute Covered Material solely for
+noncommercial personal, educational, research, or community purposes.
+
+Commercial use, including selling Covered Material or incorporating it into
+paid products or services, commercial licensing, and use on behalf of a
+commercial business, requires separate written permission from the copyright
+holder. Rights that applicable law grants independently of this license are
+not restricted by this license.
+
+3. No patenting of the Project or Derivatives
+
+As a condition of the permissions in section 2, you must not apply for,
+seek, acquire, or assist another party in obtaining any patent or utility
+model with claims covering the Project or a Derivative, including changes
+or improvements based on the Project. This includes direct applications,
+applications through an employer or another entity, and applications made
+on your behalf.
+
+You must not assert or enforce patent or utility-model claims against
+another party's use, copying, modification, or distribution of Covered
+Material under this license.
+
+This condition does not concern inventions developed independently of the
+Project that do not claim the Project or a Derivative. It does not itself
+invalidate a patent, determine patentability, or bind parties who have not
+accepted or exercised permissions under this license.
+
+4. Notices and downstream conditions
+
+Every distributed copy or Derivative must retain this license, the copyright
+notice, and the custom-draft notice. Clearly identify modifications. You
+must not offer downstream rights to Covered Material that permit commercial
+use or patenting prohibited above. Additional original contributions remain
+owned by their authors; their distribution with Covered Material must not
+remove the conditions on Covered Material.
+
+5. No implied rights
+
+No trademark rights or express patent license are granted. No rights to
+third-party material are granted. The copyright holder may separately grant
+other permissions in writing.
+
+6. Termination
+
+Permission under this license terminates upon breach of its conditions.
+After termination you must stop activities that require permission under
+this license, unless and until the copyright holder reinstates permission
+in writing. Sections 3 through 8 survive termination to the extent permitted
+by applicable law.
+
+7. Disclaimer
+
+THE COVERED MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW, THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE COVERED MATERIAL OR ITS USE.
+
+8. Applicable law and mandatory rights
+
+Mandatory rights and limitations under applicable law prevail over this
+license. If a provision is unenforceable, other provisions remain effective
+to the extent permitted by applicable law. Obtain legal review before relying
+on this custom license to prevent commercial exploitation or patent filings.
