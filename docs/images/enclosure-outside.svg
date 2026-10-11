@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="drawing" viewBox="0 0 660 350" role="img" aria-label="Concept of a wall-mounted screw-lid enclosure, with USB power and heater cable exiting below, and a separate small vented sensor housing alongside it.">
+<style>
+#nibe-case-concept{color:#202934}
+.drawing{display:block;width:100%;height:auto}
+.shell{fill:#e0e4e8;stroke:#929ba5;stroke-width:2}
+.face{fill:#f7f8fa;stroke:#929ba5;stroke-width:2}
+.board{fill:#e0eee6;stroke:#3e775b;stroke-width:1.5}
+.metal{fill:#c6cdd4;stroke:#596570;stroke-width:1.5}
+.dark{fill:#596570}
+.sensor{fill:#dceafa;stroke:#35689e;stroke-width:1.5}
+.trace{fill:none;stroke:#596570;stroke-width:2}
+.power{fill:none;stroke:#c36328;stroke-width:3}
+.signal{fill:none;stroke:#476fc0;stroke-width:3}
+.contact{fill:none;stroke:#8752a3;stroke-width:3}
+.lead{fill:none;stroke:#929ba5;stroke-width:1.5}
+svg text{fill:#202934;font:inherit}
+.parts{display:grid;grid-template-columns:1fr 1fr;gap:12px 24px;margin:12px 0 24px}
+.parts div{display:flex;gap:8px;align-items:baseline}
+.num{font-weight:500;color:#596570}
+.legend{display:flex;flex-wrap:wrap;gap:16px;margin:12px 0}
+.swatch{display:inline-block;width:22px;height:3px;vertical-align:middle;margin-right:6px}
+details{margin-top:16px}
+summary{padding:12px 0}
+@media(max-width:480px){.parts{grid-template-columns:1fr}.svg-note{display:none}}
+
+svg text{fill:#202934;font:14px sans-serif} .svg-note{display:initial}</style><title>Outside enclosure concept</title>
+<path class="shell" d="M118 66 L365 44 L408 84 L161 109 Z"/>
+<path class="shell" d="M365 44 L408 84 L408 263 L365 220 Z"/>
+<path class="shell" d="M118 66 L161 109 L161 285 L118 244 Z"/>
+<path class="face" d="M161 109 L408 84 L408 263 L161 285 Z"/>
+<path class="lead" d="M173 119 L396 97 L396 251 L173 273 Z"/>
+<g class="metal"><circle cx="182" cy="131" r="4"/><circle cx="387" cy="109" r="4"/><circle cx="182" cy="259" r="4"/><circle cx="387" cy="238" r="4"/></g>
+<text x="216" y="181" transform="rotate(-5 216 181)">NIBE controller</text>
+<text class="svg-note" x="224" y="203" transform="rotate(-5 224 203)">Pico + relay</text>
+<path class="metal" d="M212 279 L230 277 L232 296 L214 298 Z"/>
+<path class="metal" d="M340 267 L358 265 L360 285 L342 287 Z"/>
+<path class="trace" style="stroke-width:7" d="M223 298 L223 328 L195 341"/>
+<path class="trace" style="stroke-width:7" d="M351 287 L351 317 L388 339"/>
+<path class="trace" style="stroke-width:4" d="M402 155 L446 155 L446 215 L479 215"/>
+<path class="shell" d="M475 169 L530 164 L546 181 L491 187 Z"/>
+<path class="face" d="M491 187 L546 181 L546 248 L491 254 Z"/>
+<path class="shell" d="M475 169 L491 187 L491 254 L475 236 Z"/>
+<g class="trace"><path d="M499 199 L537 195 M499 209 L537 205 M499 219 L537 215 M499 229 L537 225 M499 239 L537 235"/></g>
+<g><text x="148" y="91">1</text><text x="204" y="319">2</text><text x="370" y="315">3</text><text x="558" y="217">4</text></g>
+</svg>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="drawing"
+   viewBox="0 0 660 445"
+   role="img"
+   aria-label="Top view of the enclosure. Pico and resistor strip on the left, relay on the right. The relay contact cable takes a separate right-hand route. All boards mount on insulating spacers above a removable mounting plate."
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="enclosure-inside.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.6224719"
+     inkscape:cx="329.84147"
+     inkscape:cy="253.00557"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <style
+     id="style1">
+#nibe-case-concept{color:#202934}
+.drawing{display:block;width:100%;height:auto}
+.shell{fill:#e0e4e8;stroke:#929ba5;stroke-width:2}
+.face{fill:#f7f8fa;stroke:#929ba5;stroke-width:2}
+.board{fill:#e0eee6;stroke:#3e775b;stroke-width:1.5}
+.metal{fill:#c6cdd4;stroke:#596570;stroke-width:1.5}
+.dark{fill:#596570}
+.sensor{fill:#dceafa;stroke:#35689e;stroke-width:1.5}
+.trace{fill:none;stroke:#596570;stroke-width:2}
+.power{fill:none;stroke:#c36328;stroke-width:3}
+.signal{fill:none;stroke:#476fc0;stroke-width:3}
+.contact{fill:none;stroke:#8752a3;stroke-width:3}
+.lead{fill:none;stroke:#929ba5;stroke-width:1.5}
+svg text{fill:#202934;font:inherit}
+.parts{display:grid;grid-template-columns:1fr 1fr;gap:12px 24px;margin:12px 0 24px}
+.parts div{display:flex;gap:8px;align-items:baseline}
+.num{font-weight:500;color:#596570}
+.legend{display:flex;flex-wrap:wrap;gap:16px;margin:12px 0}
+.swatch{display:inline-block;width:22px;height:3px;vertical-align:middle;margin-right:6px}
+details{margin-top:16px}
+summary{padding:12px 0}
+@media(max-width:480px){.parts{grid-template-columns:1fr}.svg-note{display:none}}
+
+svg text{fill:#202934;font:14px sans-serif} .svg-note{display:initial}</style>
+  <title
+     id="title1">Inside mounting and cable routing</title>
+  <rect
+     class="shell"
+     x="84"
+     y="24"
+     width="490"
+     height="346"
+     rx="12"
+     id="rect1" />
+  <rect
+     class="face"
+     x="98"
+     y="38"
+     width="462"
+     height="318"
+     rx="7"
+     id="rect2" />
+  <rect
+     class="shell"
+     x="120"
+     y="60"
+     width="416"
+     height="272"
+     rx="3"
+     id="rect3" />
+  <g
+     class="metal"
+     id="g6">
+    <circle
+       cx="132"
+       cy="72"
+       r="5"
+       id="circle3" />
+    <circle
+       cx="524"
+       cy="72"
+       r="5"
+       id="circle4" />
+    <circle
+       cx="132"
+       cy="320"
+       r="5"
+       id="circle5" />
+    <circle
+       cx="524"
+       cy="320"
+       r="5"
+       id="circle6" />
+  </g>
+  <rect
+     class="board"
+     x="157"
+     y="109"
+     width="87"
+     height="181"
+     rx="4"
+     id="rect6" />
+  <g
+     class="metal"
+     id="g10">
+    <circle
+       cx="169"
+       cy="120"
+       r="4"
+       id="circle7" />
+    <circle
+       cx="232"
+       cy="120"
+       r="4"
+       id="circle8" />
+    <circle
+       cx="169"
+       cy="277"
+       r="4"
+       id="circle9" />
+    <circle
+       cx="232"
+       cy="277"
+       r="4"
+       id="circle10" />
+  </g>
+  <rect
+     class="metal"
+     x="178"
+     y="276"
+     width="45"
+     height="24"
+     rx="2"
+     id="rect10" />
+  <rect
+     class="metal"
+     x="183"
+     y="173"
+     width="34"
+     height="34"
+     id="rect11" />
+  <rect
+     class="shell"
+     x="177"
+     y="129"
+     width="48"
+     height="27"
+     id="rect12" />
+  <text
+     x="179"
+     y="235"
+     id="text12">Pico</text>
+  <g
+     class="dark"
+     id="g12">
+    <path
+       d="M157 162 h9 v5 h-9 Z M157 174 h9 v5 h-9 Z M157 186 h9 v5 h-9 Z M157 198 h9 v5 h-9 Z M235 162 h9 v5 h-9 Z M235 174 h9 v5 h-9 Z M235 186 h9 v5 h-9 Z M235 198 h9 v5 h-9 Z M235 210 h9 v5 h-9 Z M235 222 h9 v5 h-9 Z"
+       id="path12" />
+  </g>
+  <rect
+     class="shell"
+     x="273"
+     y="165"
+     width="63"
+     height="121"
+     rx="2"
+     id="rect13" />
+  <rect
+     class="metal"
+     x="284"
+     y="187"
+     width="40"
+     height="10"
+     id="rect14" />
+  <rect
+     class="metal"
+     x="296"
+     y="224"
+     width="12"
+     height="30"
+     id="rect15" />
+  <text
+     x="286"
+     y="181"
+     id="text15">1kΩ</text>
+  <rect
+     class="board"
+     x="368"
+     y="145"
+     width="132"
+     height="144"
+     rx="3"
+     id="rect16" />
+  <rect
+     class="sensor"
+     x="399"
+     y="171"
+     width="61"
+     height="72"
+     rx="2"
+     id="rect17" />
+  <text
+     x="410"
+     y="210"
+     id="text17">Relay</text>
+  <rect
+     class="metal"
+     x="472"
+     y="182"
+     width="22"
+     height="74"
+     id="rect18" />
+  <g
+     class="dark"
+     id="g20">
+    <circle
+       cx="483"
+       cy="194"
+       r="4"
+       id="circle18" />
+    <circle
+       cx="483"
+       cy="219"
+       r="4"
+       id="circle19" />
+    <circle
+       cx="483"
+       cy="243"
+       r="4"
+       id="circle20" />
+  </g>
+  <g
+     class="metal"
+     id="g24">
+    <circle
+       cx="377"
+       cy="155"
+       r="4"
+       id="circle21" />
+    <circle
+       cx="490"
+       cy="155"
+       r="4"
+       id="circle22" />
+    <circle
+       cx="377"
+       cy="279"
+       r="4"
+       id="circle23" />
+    <circle
+       cx="490"
+       cy="279"
+       r="4"
+       id="circle24" />
+  </g>
+  <path
+     class="lead"
+     d="M145 99 L254 99"
+     id="path24" />
+  <text
+     class="svg-note"
+     x="148"
+     y="88"
+     id="text24">Antenna clearance</text>
+  <path
+     class="trace"
+     style="stroke-width:6"
+     d="M 200,300 V 431"
+     id="path25" />
+  <path
+     class="power"
+     d="m 242,212 h 18 v 92 h 99 v -47 h 11"
+     id="path26" />
+  <path
+     class="signal"
+     d="m 242,224 29.72751,-0.19066 -0.008,-31.74486 11.43187,-0.47665 M 324,191 h 22 v 34 h 24"
+     id="path27"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     class="power"
+     d="m 242,177 h 10 v -46 h 34 V 39 5"
+     id="path28" />
+  <path
+     class="signal"
+     d="m 242,188 h 18 v -48 h 36 V 39 5"
+     id="path29" />
+  <path
+     class="trace"
+     d="m 242,201 h 26 v -52 h 38 V 39 5 m -38,196 v 113 h 83 v -42 h 19 m -68,-18 v 60"
+     id="path30" />
+  <path
+     class="contact"
+     d="m 494,219 h 25 V 431 M 494,243 h 36 v 188"
+     id="path31" />
+  <text
+     x="281"
+     y="273"
+     id="text16">10kΩ</text>
+  <rect
+     class="metal"
+     x="187"
+     y="355"
+     width="26"
+     height="28"
+     rx="4"
+     id="rect31" />
+  <rect
+     class="metal"
+     x="511"
+     y="355"
+     width="28"
+     height="28"
+     rx="4"
+     id="rect32" />
+  <text
+     x="126"
+     y="409"
+     id="text32">USB power</text>
+  <text
+     x="445"
+     y="409"
+     id="text33">To NIBE · COM / NO</text>
+  <g
+     id="g38">
+    <text
+       x="140"
+       y="242"
+       id="text34">5</text>
+    <text
+       x="340"
+       y="177"
+       id="text35">6</text>
+    <text
+       x="505"
+       y="171"
+       id="text36">7</text>
+    <text
+       x="545"
+       y="330"
+       id="text37">8</text>
+    <text
+       x="323"
+       y="28"
+       id="text38">To DHT11</text>
+  </g>
+</svg>
