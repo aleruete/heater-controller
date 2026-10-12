@@ -342,7 +342,7 @@ The planned rule is to request reduction when household power stays above **X kW
 
 ## Disclaimer
 
-This is an experimental DIY project provided “as is,” without warranties of any kind. It has not been certified or fully tested with the NIBE Fighter 1230. It is not affiliated with or endorsed by NIBE, Raspberry Pi, or Waveshare.
+This is an experimental DIY project provided “as is,” without warranties of any kind. Substantial parts of this code is produced with AI. It has not been certified or fully tested with the NIBE Fighter 1230. It is not affiliated with or endorsed by NIBE, Raspberry Pi, or Waveshare.
 
 You are responsible for verifying compatibility, wiring, configuration, and safe operation. Incorrect installation or unexpected behaviour may damage equipment, interrupt heating, or cause injury. Have a qualified professional perform work inside the heat pump, and complete the documented bench tests before connecting it.
 
